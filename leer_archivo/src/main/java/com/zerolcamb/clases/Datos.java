@@ -1,4 +1,4 @@
-package main.java.com.zerolcamb.clases;
+package com.zerolcamb.clases;
 
 import java.util.Date;
 

@@ -1,4 +1,4 @@
-package main.java.com.zerolcamb.principal;
+package com.zerolcamb.principal;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
@@ -10,7 +10,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Date;
 import java.util.List;
-import main.java.com.zerolcamb.clases.Datos;
+import com.zerolcamb.clases.Datos;
 
 /**
  *
